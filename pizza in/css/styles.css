@@ -1,0 +1,50 @@
+.navbar-content {
+    background-color: #a94442;
+    border: none;
+    border-radius: 0px;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.navbar-default .navbar-brand {
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 0px;
+    border: 1px solid transparent;
+}
+
+.h2, h2 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    height: 550px;
+}
+
+.footer {
+	background-color: #a94442;
+	padding: 1.5rem 0;
+	color: white;
+}
+
+.h1, .h2, .h3, h1, h2, h3 {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+
+	

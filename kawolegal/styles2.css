@@ -1,0 +1,68 @@
+.navbar-default {
+    background-color: darkred;
+    border-color: none;
+    border-radius: 0px;
+    height: 100px;
+}
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 0px;
+    border: 1px solid transparent;
+}
+
+.placeholder {
+    min-height: 87vh;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+    padding-top: 40px;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+	color: white;
+	border: 1px solid red;
+}
+
+.input-group {
+	padding-top: 20px;
+	padding-left: 200px;
+	padding-right: 100px;
+}
+
+.input-group-addon {
+	background-color: skyblue;
+}
+
+.navbar-brand>img {
+    display: block;
+    padding-left: 50px;
+    width: 300px;
+}
+
+.mama {
+	padding-top: 40px;
+}
+
+h4 {
+	padding-top: 30px;
+	color: white;
+	padding-left: 70px;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+.footer {
+	background-color: darkred;
+	margin-top: 20px;
+	
+}
+.kay {
+	color: white;
+	padding-top: 5px;
+}
+.list-inline {
+	float: right;
+	color: blue;
+	font-size: 20px;
+}

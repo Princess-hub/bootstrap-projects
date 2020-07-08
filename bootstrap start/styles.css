@@ -1,0 +1,41 @@
+/*.button {
+	background-color: blue;
+	border: none;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+
+.button2 {
+	background-color: green;
+	font-size: 20px;
+	padding: 15px 32px;
+}
+.button3 {
+	background-color: red;
+	font-size: 18px;
+	padding: 15px 32px;
+}
+.button4 {
+	background-color: pink;
+	font-size: 16px;
+	padding: 15px 32px;
+}
+.button5 {
+	background-color: grey;
+	font-size: 14px;
+	padding: 15px 32px;
+}
+.button6 {
+	background-color: black;
+	font-size: 12px;
+	padding: 15px 32px;
+}
+.button7 {
+	background-color: purple;
+	padding: 15px 32px;
+}

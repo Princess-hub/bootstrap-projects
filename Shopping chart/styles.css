@@ -1,0 +1,42 @@
+.me {
+	padding-top: 50px;
+	padding-right: 50px;
+}
+
+.container-cart {
+	background: black;
+	color: white;
+	margin-left: 60px;
+	margin-right: 40px; 
+}
+.top-right {
+	float: right;
+	background: grey;
+	color: white;
+	font-size: 10px;
+}
+
+.btn-circle.btn-sm {
+	border-radius: 15px;
+}
+
+.card-title {
+	font-weight: bold;
+}
+ 
+ hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 2px solid gold;
+    width: 20px;
+}
+.teek {
+	padding-right: 150px;
+}
+.love {
+	padding-left: 200px;
+}
+div.form-inline {
+	right: 10px;
+	position: absolute;
+}
